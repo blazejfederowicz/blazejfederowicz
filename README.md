@@ -2,7 +2,7 @@
 
 # 💬 I'm Błażej And Welcome To My Github Page 🫰
 
-🔭 Completed secondary school with a degree in Information Technology Technician<br>🤝 Actively seeking internship or full-time opportunities to grow as a developer<br>🌱 Dedicated to continuous improvement and becoming a better programmer every day
+🔭 Completed secondary school with a vocational qualification in Information Technology Technician<br>🤝 Actively seeking internship or full-time opportunities to grow as a developer<br>🌱 Dedicated to continuous improvement and becoming a better programmer every day
 
 # 💻 Tech Stack:
 
