@@ -1,4 +1,6 @@
-# 💫 About Me:
+<img src="github_banner.png" alt="Github Banner" width="100%"/>
+
+# I'm Błażej And Welcome To My Github 🫰:
 
 🔭 Completed secondary school with a degree in Information Technology Technician<br>🤝 Actively seeking internship or full-time opportunities to grow as a developer<br>🌱 Dedicated to continuous improvement and becoming a better programmer every day
 
