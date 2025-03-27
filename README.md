@@ -1,4 +1,4 @@
-<img src="github_banner.png" alt="Github Banner" width="100%"/>
+<img src="github_banner.jpg" alt="Github Banner" width="100%"/>
 
 # 💬 I'm Błażej And Welcome To My Github Page 🫰
 
